@@ -17,7 +17,7 @@
     align-items: center;
     padding: 10px 3px 13px;
     gap:10px;
-    position:sticky;
+    position:fixed; /*para que h1 quede siempre en el centro de la VENTANA*/
     top:0;
     background-color: white;
 }
