@@ -17,6 +17,9 @@
     align-items: center;
     padding: 10px 3px 13px;
     gap:10px;
+    position:sticky;
+    top:0;
+    background-color: white;
 }
 .logo {
     width:155px;
