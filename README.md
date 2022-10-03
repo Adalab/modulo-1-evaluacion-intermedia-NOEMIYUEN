@@ -1,5 +1,7 @@
 # Módulo 1: Ejercicio de evaluación intermedia
 
+> Alumna: Noemí Ho Fa Yuen Durán
+
 ## Descripción
 
 La web simplificada que hemos preparado, consta de estos elementos:
