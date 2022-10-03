@@ -1,0 +1,36 @@
+:root {
+    font-family: 'Rubik', sans-serif;
+    --background-color:#3CDBC0;
+    --menu-color:#4a4a4a;
+    --title-color:#FFFFFF;
+    font-size: 62.5%;
+}
+.body {
+    font-size: 16px;
+}
+.header {
+    box-sizing: border-box;
+    width: 100vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 3px 13px;
+    gap:10px;
+}
+.logo {
+    width:155px;
+}
+.list {
+    display:flex;
+    gap:20px;
+}
+.link-element {
+    text-decoration: none;
+    color:var(--menu-color);
+    text-transform: uppercase;
+    font-size: 1.6rem;
+}
+.section {
+   background-color: var(--background-color);
+}
