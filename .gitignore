@@ -11,6 +11,9 @@ bower_components
 .AppleDouble
 .LSOverride
 
+# Linux
+*.directory
+
 # Thumbnails
 ._*
 
@@ -47,8 +50,8 @@ node_modules/
 # JS Sourcemaps
 *.js.map
 
+# Public folder
+public
+
 # vscode
 .vscode
-
-# other directories
-git-ignored
