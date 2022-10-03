@@ -53,6 +53,10 @@ tamaños:
   - El texto de las opciones del menú tiene un tamaño de 16px.
   - El texto del título "Creando Diversidad Digital" tiene un tamaño de 30px.
 
+**Ejemplo de web para móvil:**
+
+![Imagen de gatito](./images/mobile-template.PNG)
+
 ### **Tablet y desktop**
 
 - A partir de 768px
@@ -62,6 +66,10 @@ tamaños:
 
 Según vayáis trabajando en el ejercicio, id haciendo nuevas versiones (_commit_) del mismo y subid los
 cambios a GitHub (_push_). De esta forma podremos ver cómo vais avanzando.
+
+**Ejemplo de web para tablet y desktop:**
+
+![Imagen de gatito](./images/tablet-desktop-template.PNG)
 
 ## Recomendaciones
 
