@@ -24,6 +24,10 @@
 .logo {
     width:155px;
 }
+.link-logo:hover {
+    background-color:#3cdbc11c;
+    border-radius: 6px;
+}
 .list {
     display:flex;
     gap:20px;
@@ -33,6 +37,10 @@
     color:var(--menu-color);
     text-transform: uppercase;
     font-size: 1.6rem;
+}
+.link-element:hover {
+    color:black;
+    font-weight: 600;
 }
 .main-section {
    background-color: var(--background-color);
